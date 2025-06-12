@@ -1,4 +1,4 @@
-# Project Title
+# FASHBuddy
 A brief description of the project.
 
 ## Description
